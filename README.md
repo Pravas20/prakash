@@ -1,2 +1,2 @@
-# prakash
+# Sphinx - Initial website
 Initial site 
